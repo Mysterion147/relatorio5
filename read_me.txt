@@ -1,0 +1,1 @@
+- As validations estão bugando mas assumo que seja problema no Compass. Por exemplo, doubles com 00 após ponto flutuante vão automaticamnete pra int e ai da erro. Fora isso esta de acordo com o material.
